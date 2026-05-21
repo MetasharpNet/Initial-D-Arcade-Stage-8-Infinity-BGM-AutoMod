@@ -1,4 +1,4 @@
-# Initial D Arcade Stage 8 Infinity BGM Modder
+# Initial D Arcade Stage 8 Infinity BGM AutoMod
 
 > Semi-automated custom soundtrack modding workflow for Initial D Arcade Stage 8 Infinity.
 
