@@ -81,6 +81,31 @@ MIT
 
 ---
 
+# Suggested Tracklist for the game
+
+* 01 fastway - go beat crazy
+* 02 ace - power of sound
+* 03 tommy k. - break the night
+* 04 max coveri - running in the 90's
+* 05 dave rodgers - space boy
+* 06 dr. love feat. d. essex - max power
+* 07 edo boys - no one sleep in tokyo
+* 08 m.o.v.e - dogfight
+* 09 niko - night of fire
+* 10 mega nrg man - back on the rocks
+* 11 ken blast - the top
+* 12 dave rodgers - deja vu
+* 13 mako & sayuki - wings of fire
+* 14 mega nrg man - burning desire
+* 15 leslie parrish - save me
+* 16 jager - i won't fall apart
+* 17 go 2 - looka bomba
+* 18 vicky vale - dancing
+* 19 sound holic feat nana takahashi - pandora zone
+* 20 sound holic feat nana takahashi - preserved vampire
+
+---
+
 # Statistics
 
 GitHub Downloads stats : [https://hanadigital.github.io/grev/?user=MetasharpNet&repo=InitialDArcadeStage8InfinityBGMModder](https://hanadigital.github.io/grev/?user=MetasharpNet&repo=Initial-D-Arcade-Stage-8-Infinity-BGM-AutoMod)
