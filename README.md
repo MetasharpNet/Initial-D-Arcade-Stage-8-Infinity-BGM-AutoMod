@@ -1,6 +1,6 @@
 # Initial D Arcade Stage 8 Infinity BGM AutoMod
 
-> Semi-automated custom soundtrack modding workflow for Initial D Arcade Stage 8 Infinity.
+> Mostly-automated custom soundtrack modding workflow for Initial D Arcade Stage 8 Infinity.
 
 A Windows CMD-based toolchain for replacing the game's music with custom tracks, generating previews, managing XACT projects and packaging ready-to-use mod files.
 
