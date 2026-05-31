@@ -101,7 +101,7 @@ MIT
 * 16 jager - i won't fall apart
 * 17 go 2 - looka bomba
 * 18 vicky vale - dancing
-* 19 sound holic feat nana takahashi - pandora zone
+* 19 sound holic vs eurobeat union feat nana takahashi - no life queen [dj command remix]
 * 20 sound holic feat nana takahashi - preserved vampire
 
 ---
