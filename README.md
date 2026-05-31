@@ -108,4 +108,4 @@ MIT
 
 # Statistics
 
-GitHub Downloads stats : [https://hanadigital.github.io/grev/?user=MetasharpNet&repo=InitialDArcadeStage8InfinityBGMAutoMod](https://hanadigital.github.io/grev/?user=MetasharpNet&repo=Initial-D-Arcade-Stage-8-Infinity-BGM-AutoMod)
+GitHub Downloads stats : https://grev.shehryar.ae/?owner=MetasharpNet&repo=Initial-D-Arcade-Stage-8-Infinity-BGM-AutoMod
